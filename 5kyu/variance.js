@@ -1,6 +1,6 @@
 /*
 
-VarianceCalculate VarianceCalculate VarianceCalculate Variance
+Calculate Variance
 
 Description:
 
